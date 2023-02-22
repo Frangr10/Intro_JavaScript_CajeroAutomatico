@@ -1,0 +1,63 @@
+
+main{
+    background-color: rgb(210, 123, 228);
+    box-shadow: -6px 6px 5px 1px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    margin: auto;
+    color: rgb(253, 253, 253) !important;
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    
+    
+}
+
+.formulario {
+    margin: 5em auto;
+    height: 25em;
+    width: 30em;
+    border: solid 2px;
+    /* border-radius: 2%; */
+    border-bottom-left-radius: 10%;
+    border-top-right-radius: 10%;
+}
+
+.areaInformacion {
+    height: 50%;
+}
+
+.areaBotones {
+    height: 50%;
+}
+
+.articles {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+    .container {
+        display: flex;
+        justify-content: space-evenly
+    }
+
+    .container button {
+        width: 130px;
+        box-shadow: -3px 3px 5px 1px rgba(0, 0, 0, 0.2),
+                inset 0 -3em 3em rgba(0,0,0,0.1);
+    }
+
+    .inputs {
+        margin: 1em;
+        border: solid 2px;
+    }
+
+.inputMonto {
+    width: 37% !important;
+    margin: auto;
+}
