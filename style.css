@@ -1,0 +1,26 @@
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+} */
+
+header {
+    display: flex;
+    height: 50px;
+}
+
+.logo-img {
+    height: 100%;
+}
+
+.titulo {
+    
+}
+/* 
+input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  } */
